@@ -4,6 +4,9 @@
 
 I'm a full-stack developer sculpting beautiful digital landscapes. 
 
+### My Portfolio
+[portfolio]: [https://aliviathomas-portfolio.netlify.app/)https://aliviathomas-portfolio.netlify.app/]
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -27,4 +30,4 @@ I'm a full-stack developer sculpting beautiful digital landscapes.
  <summary><h3>👨‍💻 Alivia's Coding Journey</h3></summary>
    I started my coding journey as a freshman in highschool learning RobotC in robotics with a passion to learn everything I could about this programming world. I graduated to higher level robotics learning python. I continued learning following gradutaiton learning to use linux on my raspberrypi and designing sites for commision. I took a career break in March to attend the University of Washington's Full-Stack Web Development Bootcamp. I graduated the class in June 2023 and continued nurturing my curiosity into Three.js. I hope I can have the opportunity to grow in your company next!
 
-[portfolio]: [https://fkcodes.com](https://aliviathomas-portfolio.netlify.app/)https://aliviathomas-portfolio.netlify.app/
+
