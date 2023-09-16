@@ -5,7 +5,7 @@
 I'm a full-stack developer sculpting beautiful digital landscapes. 
 
 ### My Portfolio
-https://aliviathomas-portfolio.netlify.app/)https://aliviathomas-portfolio.netlify.app/
+https://aliviathomas.com/
 
 ### 🧰 Languages and Tools
 
