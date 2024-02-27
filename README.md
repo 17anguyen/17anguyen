@@ -2,8 +2,7 @@
 
 # Alivia
 
-I'm a full-stack developer sculpting beautiful digital landscapes. 
-
+I'm a Full Stack Developer sculpting beautiful digital landscapes with two years of professional web development experience with a history in robotics programming writing autonomous scripts beginning in 2015
 ### My Portfolio
 https://aliviathomas.com/
 
