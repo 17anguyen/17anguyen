@@ -4,8 +4,6 @@
 
 I'm a Full Stack Developer sculpting beautiful digital landscapes with two years of professional web development experience with a history in robotics programming writing autonomous scripts beginning in 2015
 ### My Portfolio
-https://aliviadev.com
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
